@@ -18,7 +18,7 @@ Keras (with TensorFlow backend)
 
 Installation
 Clone this repository to your local machine:
-git clone https://github.com/your-username/drowsiness-detection.git
+git clone https://github.com/AnuragNagare/drowsiness-detection.git
 cd drowsiness-detection
 
 Install the required dependencies:
